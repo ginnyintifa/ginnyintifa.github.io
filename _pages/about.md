@@ -16,9 +16,9 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Ginny is a computational biologist/bioinformatician. 
-She deals with multi-omics data such as transcriptomics and proteomics data.
-She is a research fellow at the University of Michigan. 
+I am a computational biologist/bioinformatician. 
+I process, analyze, integrate and visualize multi-omics data including transcriptomics and proteomics data. I believe there is a way to understand disease such as cancer with data. 
+I work at the University of Michigan as a research fellow.  
 
 
 You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
