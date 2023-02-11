@@ -11,16 +11,11 @@ profile:
   address: >
     <p>Ann Arbor, Michigan</p>
 
-news: true  # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+news: false  # includes a list of news items
+selected_papers: false # includes a list of papers marked as "selected={false}"
 social: true  # includes social icons at the bottom of the page
 ---
 
 I am a computational biologist/bioinformatician. 
 I process, analyze, integrate and visualize multi-omics data including transcriptomics and proteomics data. I believe there is a way to understand disease such as cancer with data. 
 I work at the University of Michigan as a research fellow.  
-
-
-You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
