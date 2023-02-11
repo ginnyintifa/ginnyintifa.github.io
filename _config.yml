@@ -3,8 +3,8 @@
 # -----------------------------------------------------------------------------
 
 title: blank # the website title (if blank, full name will be used instead)
-first_name: Ginny
-middle_name: Xiaohe
+first_name: Ginny Xiaohe
+middle_name: 
 last_name: Li
 email: ginnyli056@gmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
@@ -47,7 +47,7 @@ repo_trophies:
 # will use title and url fields
 # Take a look to https://github.com/jekyll/jekyll-feed for more customization
 
-rss_icon: true
+rss_icon: false
 
 # -----------------------------------------------------------------------------
 # Layout
@@ -130,7 +130,8 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: al-folio # blog_name will be displayed in your blog page
+blog_name: Analytical Eyes # blog_name will be displayed in your blog page
+blog_nav_title: blog # your blog must have a title for it to be displayed in the nav bar
 blog_description: a simple whitespace theme for academics
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
