@@ -1,12 +1,10 @@
 ---
 layout: page
 permalink: /teaching/
-title: teaching
+title: events
 description: Materials for courses you taught. Replace this text with your description.
 nav: true
 nav_order: 6
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
-
-Organize your courses by years, topics, or universities, however you like!
+On March 4th and 5th I will be assisting a short course in US HUPO 2023 for FragPipe and MSstats case studies.  
