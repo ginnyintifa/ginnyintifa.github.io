@@ -18,4 +18,4 @@ social: true  # includes social icons at the bottom of the page
 
 I am a computational biologist/bioinformatician. 
 I process, analyze, integrate and visualize multi-omics data including transcriptomics and proteomics data. I believe there is a way to understand disease such as cancer with data. 
-I work at the University of Michigan as a research fellow.  
+I am a research fellow at the University of Michigan.  
