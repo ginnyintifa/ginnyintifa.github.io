@@ -16,6 +16,6 @@ selected_papers: false # includes a list of papers marked as "selected={false}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a computational biologist/bioinformatician working at the <a href ='https://www.nesvilab.org/'> University of Michigan </a>. 
+I am a computational biologist/bioinformatician working at the <a href ='https://www.nesvilab.org/'> University of Michigan</a>. 
 I process, analyze, integrate and visualize multi-omics data including transcriptomics and proteomics data. I believe there is a way to understand disease such as cancer with data. 
 
