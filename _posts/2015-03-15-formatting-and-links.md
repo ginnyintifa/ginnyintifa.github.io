@@ -15,30 +15,6 @@ Encouraged by my advisor's words, I applied for and landed a postdoctoral positi
 
 Working closely with over 20 collaborators, I discovered that I had a natural talent for the job at hand. My analytical eyes proved to be an asset in navigating through the extensive and, at times, messy datasets. Through this experience, I found a newfound appreciation for my own abilities and grew to love myself more.
 
-I always hoped to document what I have learned throughout the years, but was unser of how to do so. As fate would have it, I met <a href="https://crazyhottommy.github.io/">Tommy</a>, a generous computational biologist who loves to share knowledge. He encouraged me to start my own blog, and so here am I, sharing my humble experience in bioinformatics with you. 
+I always hoped to document what I have learned throughout the years, but was unsure of how to do so. As fate would have it, I met <a href="https://crazyhottommy.github.io/">Tommy</a>, a generous computational biologist who loves to share knowledge. He encouraged me to start my own blog, and so here am I, sharing my humble experience in bioinformatics with you. 
 
-#### Hipster list
 
-- brunch
-- fixie
-- raybans
-- messenger bag
-
-#### Check List
-
-- [x] Brush Teeth
-- [ ] Put on socks
-  - [x] Put on left sock
-  - [ ] Put on right sock
-- [x] Go to school
-
-Hoodie Thundercats retro, tote bag 8-bit Godard craft beer gastropub. Truffaut Tumblr taxidermy, raw denim Kickstarter sartorial dreamcatcher. Quinoa chambray slow-carb salvia readymade, bicycle rights 90's yr typewriter selfies letterpress cardigan vegan.
-
-<hr>
-
-Pug heirloom High Life vinyl swag, single-origin coffee four dollar toast taxidermy reprehenderit fap distillery master cleanse locavore. Est anim sapiente leggings Brooklyn ea. Thundercats locavore excepteur veniam eiusmod. Raw denim Truffaut Schlitz, migas sapiente Portland VHS twee Bushwick Marfa typewriter retro id keytar.
-
-> We do not grow absolutely, chronologically. We grow sometimes in one dimension, and not in another, unevenly. We grow partially. We are relative. We are mature in one realm, childish in another.
-> —Anais Nin
-
-Fap aliqua qui, scenester pug Echo Park polaroid irony shabby chic ex cardigan church-key Odd Future accusamus. Blog stumptown sartorial squid, gastropub duis aesthetic Truffaut vero. Pinterest tilde twee, odio mumblecore jean shorts lumbersexual.
