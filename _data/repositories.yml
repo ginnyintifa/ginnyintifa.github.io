@@ -1,12 +1,10 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - ginnyintifa
+
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - ginnyintifa/PTMscape
+  - ginnyintifa/GPD
+  - ginnyintifa/GPDall
+  - ginnyintifa/KSA2D
+  - ginnyintifa/ProteomeNodes
