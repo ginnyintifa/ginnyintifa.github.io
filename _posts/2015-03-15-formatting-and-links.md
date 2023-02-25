@@ -7,7 +7,7 @@ tags: first_blog
 categories: about-me
 ---
 
-After earning my PhD in bioinformatics/biostatistics from the National University of Singapore, I was happy with the successful completion of my <a href="https://scholar.google.com/citations?user=q271nRcAAAAJ&hl=en">two major projects</a>. However, as a math graduate (my undergraduate major), I couldn't shake the feeling that those projects may not have been as technically challenging as I had initially anticipated. Much of my time was spent cleaning up raw omics datasets, including maf files, RNAseq counts data, LFQ and TMT proteomics quantifications.
+After earning my PhD in bioinformatics/biostatistics from the National University of Singapore, I was happy with the successful completion of my <a href="https://scholar.google.com/citations?user=q271nRcAAAAJ&hl=en">two major projects</a>. However, as a math graduate (my undergraduate major), I couldn't shake the feeling that those projects may not have been as "mathematical" as I had initially anticipated. Much of my time was spent cleaning up raw omics datasets, including maf files, RNAseq counts data, LFQ and TMT proteomics quantifications.
 
 My advisor, a brilliant statistical mind, reassured me that my skills were not to be compared with those of CS or math PhDs. Rather, my analytical eyes, honed over five years of working with a plethora of omics datasets, would allow me to make significant discoveries that even "smart" CS and math people might struggle to approach.
 

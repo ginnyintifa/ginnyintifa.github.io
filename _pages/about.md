@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Ph.D</a>. Learn to learn 
+subtitle: <a href='#'>Ph.D</a>. Computational Biologist 
 
 profile:
   align: right
