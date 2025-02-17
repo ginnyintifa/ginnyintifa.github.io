@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  A pair of analytical eyes
-date:   2023-02-18 
+title: A pair of analytical eyes
+date: 2023-02-18
 description: my first blog
 tags: first_blog
 categories: about-me
@@ -15,6 +15,4 @@ Encouraged by my advisor's words, I applied for and landed a postdoctoral positi
 
 Working closely with over 20 collaborators, I discovered that I had a natural talent for the job at hand. My analytical eyes proved to be an asset in navigating through the extensive and, at times, messy datasets. Through this experience, I found a newfound appreciation for my own abilities and grew to love myself more.
 
-I always hoped to document what I have learned throughout the years, but was unsure of how to do so. As fate would have it, I met <a href="https://crazyhottommy.github.io/">Tommy</a>, a generous computational biologist who loves to share knowledge. He encouraged me to start my own blog, and so here am I, sharing my humble experience in bioinformatics with you. 
-
-
+I always hoped to document what I have learned throughout the years, but was unsure of how to do so. As fate would have it, I met <a href="https://crazyhottommy.github.io/">Tommy</a>, a generous computational biologist who loves to share knowledge. He encouraged me to start my own blog, and so here am I, sharing my humble experience in bioinformatics with you.

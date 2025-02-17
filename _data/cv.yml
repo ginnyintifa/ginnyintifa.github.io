@@ -4,7 +4,7 @@
     - name: Full Name
       value: Ginny Xiaohe Li
     - name: Date of Birth
-      value: 
+      value:
     - name: Languages
       value: English, Chinese
 
@@ -20,8 +20,7 @@
       institution: Shandong University
       year: 2014
       description:
-        - Mathematical training 
-        
+        - Mathematical training
 
 - title: Experience
   type: time_table
@@ -35,4 +34,3 @@
       institution: National University of Singapore
       year: 2020 - 2021
       description:
-
