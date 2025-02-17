@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post.liquid
 title:  A pair of analytical eyes
 date:   2023-02-18 
 description: my first blog
