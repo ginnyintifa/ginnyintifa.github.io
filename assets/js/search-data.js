@@ -51,7 +51,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/people/";
           },
-        },{id: "post-rethinking-normalization-in-rna-seq-and-chip-seq",
+        },{id: "post-thoughts-on-single-cell-sequencing",
+      
+        title: "Thoughts on single cell sequencing",
+      
+      description: "Before we start to work on the data matrices",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2026/singleCell-thoughts/";
+        
+      },
+    },{id: "post-rethinking-normalization-in-rna-seq-and-chip-seq",
       
         title: "Rethinking Normalization in RNA-seq and ChIP-seq",
       
