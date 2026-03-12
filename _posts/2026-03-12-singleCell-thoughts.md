@@ -10,13 +10,14 @@ date: 2026-03-12
 toc:
   - name: Foreword
   - name: What happens at the sequencing step?
-    - name: Why amplify?
-    - name: Why use UMI?
-    - name: Why not using UMI for bulk RNA-seq?
-    - name: Why amplify even for bulk RNA?
-    - name: Why 10X (not other microfluidic device-based strategies)?
-    - name: Why only sequence ends (for tag-based)?
-  - name: What happens at the raw data processing step? 
+    subsections:
+      - name: Why amplify?
+      - name: Why use UMI?
+      - name: Why not using UMI for bulk RNA-seq?
+      - name: Why amplify even for bulk RNA?
+      - name: Why 10X (not other microfluidic device-based strategies)?
+      - name: Why only sequence ends (for tag-based)?
+  - name: What happens at the raw data processing step?
 ---
 ## Foreword
 As a computational biologist, I typically begin my single-cell analyses from data that has already been processed through the Cell Ranger pipeline — delivered either as a `SingleCellExperiment` object in R or an `.h5ad` file ready to load into AnnData in Python. I rarely have the opportunity to work from raw FASTQ files, and the upstream processing steps are not something I usually need to worry about. Nevertheless, I find it valuable to understand what happens before the data reaches my hands — and to draw comparisons with how the equivalent steps work in bulk RNA-seq.
